@@ -8,9 +8,16 @@
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^4.0.0",
     "gulp-clean-css": "^3.9.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
     "gulp-group-css-media-queries": "^1.2.0",
+    "gulp-imagemin": "^4.1.0",
     "gulp-less": "^3.3.2",
+    "gulp-minify": "^2.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.1",
     "gulp-sourcemaps": "^2.6.1",
+    "gulp-uncss": "^1.0.6",
     "smart-grid": "^2.0.1"
   },
   "scripts": {
