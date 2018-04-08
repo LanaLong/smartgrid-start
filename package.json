@@ -1,7 +1,6 @@
 {
-  "name": "sm-l-3",
+  "name": "smartgrid-start",
   "version": "1.0.0",
-  "description": "",
   "main": "gulpfile.js",
   "dependencies": {},
   "devDependencies": {
@@ -18,5 +17,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LanaLong/smartgrid-start.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LanaLong/smartgrid-start/issues"
+  },
+  "homepage": "https://github.com/LanaLong/smartgrid-start#readme",
+  "description": ""
 }
